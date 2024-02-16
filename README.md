@@ -4,6 +4,7 @@
   </div>
 </div>
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&random=false&width=435&lines=Hello+world%2C+I'm+Patrick" alt="Typing SVG" /></a>
 
 <ul dir="auto">
