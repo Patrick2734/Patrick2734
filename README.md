@@ -20,7 +20,7 @@
   </a> 
   <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> 
-  r
+  <a href="https://www.r-project.org/" rel="nofollow"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40" style="max-width: 100%;"> </a> 
   pepa
 </p>
 
