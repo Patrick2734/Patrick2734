@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&random=false&width=435&lines=Hello+world%2C+I'm+Patrick" alt="Typing SVG" /></a>
  
 <ul dir="auto">
-  <li> High school: ITIS C.Zuccante in Mestre<br></li>
+  <li>🎓 &nbsp; High school: ITIS C.Zuccante in Mestre<br></li>
   <li>🎓 &nbsp; Bachelor of Science in Computer Science, Data Science, at University of Venice<br></li>
   <li>🎓 &nbsp; Master student in Cybersecurity at University of Venice<br></li>
 </ul>
