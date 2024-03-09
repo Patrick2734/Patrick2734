@@ -1,17 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&random=false&width=435&lines=Hello+world%2C+I'm+Patrick" alt="Typing SVG" /></a>
 
 ## Chi sono
-Sono un studente universitario, magistrale in informatica, Cybersecurity. Mi appassionano le nuove tecnologie e l'apprendimento continuo.
-
+Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi appassionano le nuove tecnologie e l'apprendimento continuo.
 <ul dir="auto">
   <li>🎓 &nbsp; Diploma superiore presso ITIS C.Zuccante a Mestre (VE)<br></li>
   <li>🎓 &nbsp; Laurea triennale in Informatica, Data Science, presso Università di Venezia<br></li>
   <li>🎓 &nbsp; Studente magistrale in Cybersecurity presso Università di Venezia<br></li>
 </ul>
-
 ##
-I'm an University student, master degree in Information technology, Cybersecurity. I like to discover and to learn about new technologies.
- 
+I'm an University student, master degree in Information technology, Cybersecurity. I like to discover and to learn about new technologies. 
 <ul dir="auto">
   <li>🎓 &nbsp; High school degree at ITIS C.Zuccante in Mestre (VE)<br></li>
   <li>🎓 &nbsp; Bachelor degree of Science in Computer Science, Data Science, at University of Venice<br></li>
