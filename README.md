@@ -2,6 +2,9 @@
 
 ## Chi sono
 Sono un studente universitario, magistrale in informatica, Cybersecurity. Mi appassionano le nuove tecnologie e l'apprendimento continuo.
+
+##
+I'm an University student, master degree in Information technology, Cybersecurity. I like to discover and to learn about new technologies.
  
 <ul dir="auto">
   <li>🎓 &nbsp; High school degree at ITIS C.Zuccante in Mestre<br></li>
