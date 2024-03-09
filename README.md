@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&random=false&width=435&lines=Hello+world%2C+I'm+Patrick" alt="Typing SVG" /></a>
 
 ## Chi sono
-Sono un studente universitario, magistrale in informatica. Mi appassionano le nuove tecnologie e l'apprendimento continuo.
+Sono un studente universitario, magistrale in informatica, Cybersecurity. Mi appassionano le nuove tecnologie e l'apprendimento continuo.
  
 <ul dir="auto">
   <li>🎓 &nbsp; High school degree at ITIS C.Zuccante in Mestre<br></li>
@@ -56,3 +56,4 @@ Sono un studente universitario, magistrale in informatica. Mi appassionano le nu
 
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/it.svg" height="26"></img><i> Italian (native language) </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" height="26"></img><i> English B2 certification </i></p>
+<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/de.svg" height="26"></img><i> Interessato all'apprendimento della lingua tedesca </i></p>
