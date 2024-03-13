@@ -55,7 +55,7 @@ I'm an University student, master degree in Information technology, Cybersecurit
 
 ## <img src="https://i.pinimg.com/564x/04/f7/41/04f7415d53e2cf9139edaf03d00a7596.jpg" width="20" height="20"> Languages:
 
-<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/it.svg" height="26"></img><i> Italian (native language) </i></p>
-<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" height="26"></img><i> English B2 certification </i></p>
-<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/de.svg" height="26"></img><i> Interested in learning German Language </i></p>
-<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg" height="26"></img><i> Spanish language, middle school knowledge </i></p>
+<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/it.svg" height="26"></img><i> &nbsp Italian (native language) </i></p>
+<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" height="26"></img><i> &nbsp English B2 certification </i></p>
+<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/de.svg" height="26"></img><i> &nbsp Interested in learning German Language </i></p>
+<p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg" height="26"></img><i> &nbsp Spanish language, middle school knowledge </i></p>
