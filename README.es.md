@@ -55,3 +55,8 @@ Soy estudiante Universitario, maestría en Tecnologías de la Información, Cibe
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" height="26"></img><i> &nbsp English B2 Certificación </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/de.svg" height="26"></img><i> &nbsp Interesado en aprender el idioma alemán </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg" height="26"></img><i> &nbsp Idioma español, conocimientos de secundaria </i></p>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20" height="20"> Certificaciones:
+
+<p><i> Inglés B2 Certificaciones </i></p>
+<p><i> CCNA Routing and Switching: Introduction to Networks </i></p>
