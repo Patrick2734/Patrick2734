@@ -62,5 +62,5 @@ I'm an University student, master degree in Information technology, Cybersecurit
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20" height="20"> Certifications:
 
-<p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png" height="26"></img><i> English B2 Certification </i></p>
+<p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png" height="46"></img><i> English B2 Certification </i></p>
 <p><i> CCNA Routing and Switching: Introduction to Networks </i></p>
