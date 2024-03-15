@@ -53,4 +53,4 @@ Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi ap
 ## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20" height="20"> Certificazioni:
 
 <p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png" height="46"></img><i> Certificazione Inglese B2 </i></p>
-<p><i> CCNA Routing and Switching: Introduction to Networks </i></p>
+<p><img src="https://abchorizon.com/wp-content/uploads/2022/06/8-Benefits-of-CCNA-Certification-for-Aspiring-Network-Engineers.png" height="46"></img><<i> CCNA Routing and Switching: Introduction to Networks </i></p>
