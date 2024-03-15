@@ -63,4 +63,4 @@ I'm an University student, master degree in Information technology, Cybersecurit
 ## <img src="https://i.pinimg.com/564x/04/f7/41/04f7415d53e2cf9139edaf03d00a7596.jpg" width="20" height="20"> Ciertifications:
 
 <p><i> English B2 Certification </i></p>
-<p><i> CCNA Routing and Switching: Introduction to Networks </i>p></p>i> 
+<p><i> CCNA Routing and Switching: Introduction to Networks </i></p>
