@@ -58,5 +58,5 @@ Soy estudiante Universitario, maestría en Tecnologías de la Información, Cibe
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20" height="20"> Certificaciones:
 
-<p><img src="/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png" height="26"></p>img><i><i> Inglés B2 Certificaciones </i></p>
+<p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png" height="46"></img><i><i> Inglés B2 Certificaciones </i></p>
 <p><i> CCNA Routing and Switching: Introduction to Networks </i></p>
