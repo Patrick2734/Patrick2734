@@ -49,3 +49,8 @@ Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi ap
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" height="26"></img><i> &nbsp Certificazione B2 di lingua inglese </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/de.svg" height="26"></img><i> &nbsp Interessato all'apprendimento della lingua tedesca </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg" height="26"></img><i> &nbsp Lingua spagnola, conoscenze apprese durante la scuola media </i></p>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20" height="20"> Certificazioni:
+
+<p><i> Certificazione Inglese B2 </i></p>
+<p><i> CCNA Routing and Switching: Introduction to Networks </i></p>
