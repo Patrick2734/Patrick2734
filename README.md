@@ -60,7 +60,7 @@ I'm an University student, master degree in Information technology, Cybersecurit
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/de.svg" height="26"></img><i> &nbsp Interested in learning German Language </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg" height="26"></img><i> &nbsp Spanish language, middle school knowledge </i></p>
 
-## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcertificate_1547295&psig=AOvVaw2ga0yIYjVPPd78CV3ueZ6y&ust=1710590392824000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOis8sic9oQDFQAAAAAdAAAAABAX" width="20" height="20"> Certifications:
+## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20" height="20"> Certifications:
 
 <p><i> English B2 Certification </i></p>
 <p><i> CCNA Routing and Switching: Introduction to Networks </i></p>
