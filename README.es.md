@@ -5,9 +5,9 @@
 Soy estudiante Universitario, maestría en Tecnologías de la Información, Ciberseguridad. Me gusta descubrir y aprender sobre nuevas tecnologías.
  
 <ul dir="auto">
-  <li>🎓 &nbsp; High school degree at ITIS C.Zuccante in Mestre (VE)<br></li>
-  <li>🎓 &nbsp; Bachelor degree of Science in Computer Science, Data Science, at University of Venice<br></li>
-  <li>🎓 &nbsp; Master student in Cybersecurity at University of Venice<br></li>
+  <li>🎓 &nbsp; Título de Bachillerato en Tecnología de la Información y Comunicación en ITIS C.Zuccante en Mestre (VE)<br></li> 
+  <li>🎓 &nbsp; Licenciatura en Ciencias de la Computación, Ciencia de Datos, en la Universidad Ca' Foscari de Venecia<br></li> 
+  <li>🎓 &nbsp; Estudiante de Maestría en Ciberseguridad en la Universidad Ca' Foscari de Venecia<br></li>
 </ul>
 
 ## 💬 Conectate conmigo:
