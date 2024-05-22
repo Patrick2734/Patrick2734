@@ -55,7 +55,7 @@ I'm an University student, master degree in Information technology, Cybersecurit
 
 ## Data Analysis:
 <p align="left" dir="auto"> 
-  <a href="https://www.r-project.org/" rel="nofollow"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40" style="max-width: 100%;"> </a> 
+  <a href="https://www.r-project.org/" rel="nofollow"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40" style="max-width: 100%;"> </a> &nbsp 
   <a href="https://github.com/lisa-analyzer" rel="nofollow"> <img src="https://raw.githubusercontent.com/lisa-analyzer/lisa/master/logo.png" width="80" style="max-width: 100%;"> </a>
 </p>
 
