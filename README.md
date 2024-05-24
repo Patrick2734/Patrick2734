@@ -43,20 +43,20 @@ Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi ap
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>   
 </p>
 
-## Data Analysis:
+## <img src="https://media.istockphoto.com/id/1249867007/vector/analytics-analysis-statistics-searching-gray-icon.jpg?s=612x612&w=0&k=20&c=Yt4RBnpog9OU1uPu9LVONX69bxsdS_HjeHNP6CnFRYs=" width="30"> Data Analysis:
 <p align="left" dir="auto"> 
   <a href="https://www.r-project.org/" rel="nofollow"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40" style="max-width: 100%;"> </a> &nbsp
   <a href="https://github.com/lisa-analyzer" rel="nofollow"> <img src="https://raw.githubusercontent.com/lisa-analyzer/lisa/master/logo.png" width="80" style="max-width: 100%;"> </a>
 </p>
 
-## <img src="https://i.pinimg.com/564x/04/f7/41/04f7415d53e2cf9139edaf03d00a7596.jpg" width="20" height="20"> Lingue:
+## <img src="https://i.pinimg.com/564x/04/f7/41/04f7415d53e2cf9139edaf03d00a7596.jpg" width="20"> Lingue:
 
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/it.svg" height="26"></img><i> &nbsp Italiano </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" height="26"></img><i> &nbsp Certificazione B2 di lingua inglese </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/de.svg" height="26"></img><i> &nbsp Interessato all'apprendimento della lingua tedesca </i></p>
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg" height="26"></img><i> &nbsp Lingua spagnola, conoscenze apprese durante la scuola media </i></p>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20" height="20"> Certificazioni:
+## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png" width="20"> Certificazioni:
 
 <p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png" height="85"></img><i> Certificazione Inglese B2 </i></p>
 <p><img src="https://abchorizon.com/wp-content/uploads/2022/06/8-Benefits-of-CCNA-Certification-for-Aspiring-Network-Engineers.png" height="55"></img><i> CCNA Routing and Switching: Introduction to Networks </i></p>
