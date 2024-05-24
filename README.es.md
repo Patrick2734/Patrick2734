@@ -46,7 +46,8 @@ Soy estudiante Universitario, maestría en Tecnologías de la Información, Cibe
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>   
 </p>
 
-## Data Analysis:
+## <img src="https://media.istockphoto.com/id/1249867007/vector/analytics-analysis-statistics-searching-gray-icon.jpg?s=612x612&w=0&k=20&c=Yt4RBnpog9OU1uPu9LVONX69bxsdS_HjeHNP6CnFRYs=" width="30"> Data Analysis:
+
 <p align="left" dir="auto"> 
   <a href="https://www.r-project.org/" rel="nofollow"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40" style="max-width: 100%;"> </a> &nbsp 
   <a href="https://github.com/lisa-analyzer" rel="nofollow"> <img src="https://raw.githubusercontent.com/lisa-analyzer/lisa/master/logo.png" width="80" style="max-width: 100%;"> </a>
