@@ -23,8 +23,7 @@ I'm an University student, master degree in Information technology, Cybersecurit
 <p><i> Email </i>:  
 <a href="mailto:tuamail@example.com">
     <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;">
-</a>
-<i>patrick1fabbiani@gmail.com</i></p>
+</a><i>patrick1fabbiani@gmail.com</i></p>
 </p>
 
 ## 💻 Programming Languages:
