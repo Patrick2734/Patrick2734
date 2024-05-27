@@ -18,6 +18,7 @@ Soy estudiante Universitario, maestría en Tecnologías de la Información, Cibe
 </p>
 <p><i> Github </i>: 
 <a href="https://github.com/Patrick2734/"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f1f814e7e8dfedc8b2c0ca727f58a6d35d3a7a89/icons/github.svg" alt="https://github.com/Patrick2734" height="30" width="40" style="max-width: 100%;"></a>
+<i> Patrick2734 </i>
 </p>
 <p><i> Email </i>:  
 <img align="center" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;">
