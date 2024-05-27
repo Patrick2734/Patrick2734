@@ -1,9 +1,3 @@
-<script>
-    function openGmail() {
-        window.open('https://mail.google.com/mail/?view=cm&fs=1&to=patrick1fabbiani@gmail.com', '_blank');
-    }
-</script>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ciao%2C+sono+Patrick" alt="Typing SVG" /></a>
 
 ## Chi sono
