@@ -19,10 +19,7 @@ Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi ap
 <a href="https://github.com/Patrick2734/"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f1f814e7e8dfedc8b2c0ca727f58a6d35d3a7a89/icons/github.svg" alt="https://github.com/Patrick2734" height="30" width="40" style="max-width: 100%;"></a>
 <i> Patrick2734 </i>
 </p>
-<p><i> Email </i>:  
-<a href="mailto:patrick1fabbiani@gmail.com">
-    <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;">
-</a>
+<p><i> Email </i>:
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=patrick1fabbiani@gmail.com" target="_blank">
     <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;"> 
 </a>
