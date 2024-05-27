@@ -13,12 +13,13 @@ Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi ap
 
 <p align="left" dir="auto"><i> Linkedin </i>: 
 <a href="https://www.linkedin.com/in/patrick-fabbiani-495615128/" rel="nofollow"><img align="center" src="http://www.stefanoursi.com/wp-content/uploads/2021/04/linked-in-2668688_1280-1024x638.png" alt="https://www.linkedin.com/in/patrick-fabbiani-495615128/" height="30" width="40" style="max-width: 100%;" l2mqtqxnf=""></a>
+<i> Patrick Fabbiani </i>
 </p>
 <p><i> Github </i>: 
 <a href="https://github.com/Patrick2734/"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f1f814e7e8dfedc8b2c0ca727f58a6d35d3a7a89/icons/github.svg" alt="https://github.com/Patrick2734" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 <p><i> Email </i>:  
-<!--<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/300px-Gmail_icon_%282020%29.svg.png" height="30" width="37" style="max-width: 100%;"> -->
+<img align="center" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;">
 <i>patrick1fabbiani@gmail.com</i></p>
 </p>
 
