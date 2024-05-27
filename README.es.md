@@ -24,7 +24,7 @@ Soy estudiante Universitario, maestría en Tecnologías de la Información, Cibe
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=patrick1fabbiani@gmail.com" target="_blank">
     <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;"> 
 </a>
-<i>patrick1fabbiani@gmail.com</i></p>
+<i>patrick1fabbiani@gmail.com</i>
 </p>
 
 ## 💻 Lenguajes de programación:
