@@ -22,7 +22,11 @@ I'm an University student, master degree in Information technology, Cybersecurit
 </p>
 <p><i> Email </i>:  
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=patrick1fabbiani@gmail.com"><img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;"></a>
-<i>patrick1fabbiani@gmail.com</i>
+<i>patrick1fabbiani@gmail.com</i> </br></br>
+If you want to:
+   <li> view Linkedin profile click on the Linkedin icon </li>
+   <li> view Github profile click on the Github icon </li>
+   <li> send an email by clicking on the Gmail icon. </li>
 </p>
 
 ## 💻 Programming Languages:
