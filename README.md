@@ -21,7 +21,11 @@ Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi ap
 </p>
 <p><i> Email </i>:
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=patrick1fabbiani@gmail.com"><img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" height="30" width="37" style="max-width: 100%;"></a>
-<i> patrick1fabbiani@gmail.com </i>
+<i> patrick1fabbiani@gmail.com </i> </br></br>
+Se si desidera:
+  <li> visualizzare profilo Linkedin cliccare sull'icona di Linkedin </li>
+  <li> visualizzare profilo Github cliccare sull'icona di Github </li>
+  <li> inviare una mail cliccare sull'icona di Gmail. </li>
 </p>
 
 ## 💻 Linguaggi di programmazione:
