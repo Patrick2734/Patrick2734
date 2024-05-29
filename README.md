@@ -4,7 +4,7 @@
 Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi appassionano le nuove tecnologie e l'apprendimento continuo.
 
 <ul dir="auto">
-  <li>🎓 &nbsp; Diploma superiore presso ITIS C.Zuccante a Mestre (VE)<br></li>
+  <li>🎓 &nbsp; Diploma superiore in informatica presso ITIS C.Zuccante a Mestre (VE)<br></li>
   <li>🎓 &nbsp; Laurea triennale in Informatica, Data Science, presso Università Ca' Foscari di Venezia<br></li>
   <li>🎓 &nbsp; Studente magistrale in Cybersecurity presso Università Ca' Foscari di Venezia<br></li>
 </ul>
