@@ -39,6 +39,7 @@ Si quieres:
   <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"></a> 
   <a href="https://www.r-project.org/" rel="nofollow"><img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40" style="max-width: 100%;"></a> 
   <a href="https://www.dcs.ed.ac.uk/pepa/" rel="nofollow"><img src="https://www.dcs.ed.ac.uk/pepa/images/PEPAluna.jpg" alt="pepa" width="40" height="40" style="max-width: 100%;"></a>
+  <a href="https://www.w3schools.com/php/" rel="nofollow"><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="70" style="max-width: 100%;"></a>
 </p>
 
 ## 🌐 Web:
