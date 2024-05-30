@@ -39,7 +39,6 @@ Si quieres:
   <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"></a> 
   <a href="https://www.r-project.org/" rel="nofollow"><img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40" style="max-width: 100%;"></a> 
   <a href="https://www.dcs.ed.ac.uk/pepa/" rel="nofollow"><img src="https://www.dcs.ed.ac.uk/pepa/images/PEPAluna.jpg" alt="pepa" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.w3schools.com/php/" rel="nofollow"><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="70" style="max-width: 100%;"></a>
 </p>
 
 ## 🌐 Web:
@@ -48,6 +47,7 @@ Si quieres:
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>   
+  <a href="https://www.w3schools.com/php/" rel="nofollow"><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="70" style="max-width: 100%;"></a>
 </p>
 
 ## <img src="https://media.istockphoto.com/id/1249867007/vector/analytics-analysis-statistics-searching-gray-icon.jpg?s=612x612&w=0&k=20&c=Yt4RBnpog9OU1uPu9LVONX69bxsdS_HjeHNP6CnFRYs=" width="30"> Data Analysis:
