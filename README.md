@@ -10,7 +10,7 @@
 I'm an University student, master degree in Information technology, Cybersecurity. I like to discover and to learn about new technologies.
  
 <ul dir="auto">
-  <li>🎓 &nbsp; High school degree in information technology at ITIS C.Zuccante in Mestre (VE) <img src="Zuccante.png></li>
+  <li>🎓 &nbsp; High school degree in information technology at ITIS C.Zuccante in Mestre (VE) </br><img src="Zuccante.png></li>
   <li>🎓 &nbsp; Bachelor degree of Science in Computer Science, Data Science, at Ca' Foscari University in Venice<br><img src="Unive.png></li>
   <li>🎓 &nbsp; Master student in Cybersecurity at Ca' Foscari University in Venice<br></li>
 </ul>
