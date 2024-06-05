@@ -12,7 +12,7 @@ I'm an University student, master degree in Information technology, Cybersecurit
 <ul dir="auto">
  <li class="vertical-center" style="display: flex; flex-direction: column; align-items: center;">
     🎓 &nbsp; High school degree in information technology at ITIS C.Zuccante in Mestre (VE)
-    <img src="Zuccante.jpg" alt="High School Degree" height="70" style="margin-top: auto; margin-bottom: auto;">
+    <img src="Zuccante.jpg" alt="High School Degree" height="70" style="margin-top: auto; margin-bottom: -30;">
   </li>
   <li class="vertical-center" style="display: flex; flex-direction: column; align-items: center;">
     🎓 &nbsp; Bachelor degree of Science in Computer Science, Data Science, at Ca' Foscari University in Venice
