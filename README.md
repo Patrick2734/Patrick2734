@@ -3,6 +3,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.es.md)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&random=false&width=435&lines=Hello+world%2C+I'm+Patrick" alt="Typing SVG" /></a>
+
 <a href=#><img src="contributions.svg"></a>
 
 ## Who I am
