@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola%2C+yo+soy+Patrick" alt="Typing SVG" /></a>
 
+<a href=#><img src="contributions.svg"></a>
+
 ## Quien soy
 
 Soy estudiante Universitario, maestría en Tecnologías de la Información, Ciberseguridad. Me gusta descubrir y aprender sobre nuevas tecnologías.
