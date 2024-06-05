@@ -11,7 +11,7 @@ Soy estudiante Universitario, maestría en Tecnologías de la Información, Cibe
  
 <ul dir="auto">
   <li>🎓 &nbsp; Título de Bachillerato en Tecnología de la Información y Comunicación en ITIS C.Zuccante en Mestre (VE) <a href="https://www.itiszuccante.edu.it/">pàgina web</a></li> 
-  <li>🎓 &nbsp; Licenciatura en Ciencias de la Computación, Ciencia de Datos, en la Universidad Ca' Foscari de Venecia <a href="https://ww.unive.it/">pàgina web</a></li> 
+  <li>🎓 &nbsp; Licenciatura en Ciencias de la Computación, Ciencia de Datos, en la Universidad Ca' Foscari de Venecia <a href="https://www.unive.it/">pàgina web</a></li> 
   <li>🎓 &nbsp; Estudiante de Maestría en Ciberseguridad en la Universidad Ca' Foscari de Venecia<br></li>
 </ul>
 
