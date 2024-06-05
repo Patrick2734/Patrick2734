@@ -74,4 +74,4 @@ If you want to:
 <p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png" height="85"></img><i> English B2 Certification </i></p>
 <p><img src="https://abchorizon.com/wp-content/uploads/2022/06/8-Benefits-of-CCNA-Certification-for-Aspiring-Network-Engineers.png" height="55"></img><i> CCNA Routing and Switching: Introduction to Networks </i></p>
 
-<iframe src="https://github.com/Patrick2734/Patrick2734/blob/main/README.md" width="600" height="400"></iframe>
+javascript:(function(){var url='https://github.com/Patrick2734/Patrick2734/blob/main/README.md';window.open(url,'_blank');})();
