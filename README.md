@@ -11,6 +11,8 @@ I'm an University student, master degree in Information technology, Cybersecurit
  
 <ul dir="auto">
   <li>🎓 &nbsp; High school degree in information technology at ITIS C.Zuccante in Mestre (VE) </br></li>
+ <li>🎓 &nbsp; <img src="Zuccante.jpg" alt="High School Degree"> High school degree in information technology at ITIS C.Zuccante in Mestre (VE)</li>
+<li>🎓 &nbsp; <img src="Unive.png" alt="Bachelor Degree"> Bachelor degree of Science in Computer Science, Data Science, at Ca' Foscari University in Venice</li>
   <li>🎓 &nbsp; Bachelor degree of Science in Computer Science, Data Science, at Ca' Foscari University in Venice<br></li>
   <li>🎓 &nbsp; Master student in Cybersecurity at Ca' Foscari University in Venice<br></li>
 </ul>
