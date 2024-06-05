@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&random=false&width=435&lines=Hello+world%2C+I'm+Patrick" alt="Typing SVG" /></a>
 
+<a href=#><img src="contributions.svg"></a>
+
 ## Who I am
 
 I'm an University student, master degree in Information technology, Cybersecurity. I like to discover and to learn about new technologies.
