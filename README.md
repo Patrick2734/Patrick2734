@@ -5,13 +5,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&random=false&width=435&lines=Hello+world%2C+I'm+Patrick" alt="Typing SVG" /></a>
 <a href=#><img src="contributions.svg"></a>
 
+<style>
+ .vertical-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+
 ## Who I am
 
 I'm an University student, master degree in Information technology, Cybersecurity. I like to discover and to learn about new technologies.
  
 <ul dir="auto">
- <li>🎓 &nbsp; High school degree in information technology at ITIS C.Zuccante in Mestre (VE) <img src="Zuccante.jpg" alt="High School Degree" height="70"></li>
-<li>🎓 &nbsp; Bachelor degree of Science in Computer Science, Data Science, at Ca' Foscari University in Venice <img src="Unive.png" alt="Bachelor Degree" height="70"></li>
+ <li class="vertical-center">🎓 &nbsp; High school degree in information technology at ITIS C.Zuccante in Mestre (VE) <img src="Zuccante.jpg" alt="High School Degree" height="70"></li>
+<li class="vertical-center">🎓 &nbsp; Bachelor degree of Science in Computer Science, Data Science, at Ca' Foscari University in Venice <img src="Unive.png" alt="Bachelor Degree" height="70"></li>
   <li>🎓 &nbsp; Master student in Cybersecurity at Ca' Foscari University in Venice<br></li>
 </ul>
 
