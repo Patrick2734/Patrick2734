@@ -75,3 +75,8 @@ If you want to:
 <p><img src="https://abchorizon.com/wp-content/uploads/2022/06/8-Benefits-of-CCNA-Certification-for-Aspiring-Network-Engineers.png" height="55"></img><i> CCNA Routing and Switching: Introduction to Networks </i></p>
 
 ![](https://komarev.com/ghpvc/?username=Patrick2734&color=brightgreen)
+
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+    </div>
