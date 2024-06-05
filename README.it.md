@@ -1,3 +1,7 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Patrick2734/Patrick2734/edit/main/README.md)
+[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/Patrick2734/Patrick2734/edit/main/README.it.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Patrick2734/Patrick2734/edit/main/README.es.md)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ciao%2C+sono+Patrick" alt="Typing SVG" /></a>
 
 ## Chi sono
