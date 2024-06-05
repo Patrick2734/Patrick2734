@@ -6,6 +6,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 ## Chi sono
+
 Sono uno studente universitario, magistrale in informatica, Cybersecurity. Mi appassionano le nuove tecnologie e l'apprendimento continuo.
 
 <ul dir="auto">
