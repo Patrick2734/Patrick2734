@@ -48,54 +48,6 @@ If you want to:
   <a href="https://www.dcs.ed.ac.uk/pepa/" rel="nofollow"><img src="https://www.dcs.ed.ac.uk/pepa/images/PEPAluna.jpg" alt="pepa" width="40" height="40" style="max-width: 100%;"></a>
 </p>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"><br>
-        <sub>Python</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/c/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="40" height="40"><br>
-        <sub>C</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"><br>
-        <sub>C++</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.java.com" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"><br>
-        <sub>Java</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"><br>
-        <sub>MySQL</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.r-project.org/" rel="nofollow">
-        <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"><br>
-        <sub>R</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.dcs.ed.ac.uk/pepa/" rel="nofollow">
-        <img src="https://www.dcs.ed.ac.uk/pepa/images/PEPAluna.jpg" alt="PEPA" width="40" height="40"><br>
-        <sub>PEPA</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 ## 🌐 Web:
 
 <p align="left" dir="auto"> 
