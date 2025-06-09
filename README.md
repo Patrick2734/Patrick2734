@@ -67,8 +67,8 @@ If you want to:
 ## Simulation/Gaming Software:
 
 <p align="left" dir="auto">
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/unity-logo-vector.svg"
-         alt="Unity Games" width="40" height="40" style="max-width: 100%;"></a>
+  <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/unity-logo.jpg"
+         alt="Unity Games" height="50" style="max-width: 100%;"></a>
 </p>
 
 ## <img src="https://i.pinimg.com/564x/04/f7/41/04f7415d53e2cf9139edaf03d00a7596.jpg" width="20" height="20"> Languages:
