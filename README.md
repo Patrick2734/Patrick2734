@@ -64,6 +64,13 @@ If you want to:
   <a href="https://github.com/lisa-analyzer" rel="nofollow"><img src="https://raw.githubusercontent.com/lisa-analyzer/lisa/master/logo.png" width="80" style="max-width: 100%;"></a>
 </p>
 
+## Simulation/Gaming Software:
+
+<p align="left" dir="auto">
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/unity-logo-vector.svg"
+         alt="Unity Games" width="40" height="40" style="max-width: 100%;"></a>
+</p>
+
 ## <img src="https://i.pinimg.com/564x/04/f7/41/04f7415d53e2cf9139edaf03d00a7596.jpg" width="20" height="20"> Languages:
 
 <p><img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/it.svg" height="26"></img><i> &nbsp Italian (native language) </i></p>
