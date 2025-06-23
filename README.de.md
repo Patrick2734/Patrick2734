@@ -80,5 +80,5 @@ Falls gewünscht:
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1547/1547295.png"  width="20"> Zertifizierungen:
 
-<p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png"  height="85" /><i> Englischsprachzertifikat B2 </i></p>
+<p><img src="https://www.unive.it/pag/fileadmin/user_upload/centri/CLA/img/OpenBadge_EnglishB2.png"  height="85" /><i> Englisch-sprachzertifikat B2 </i></p>
 <p><img src="https://abchorizon.com/wp-content/uploads/2022/06/8-Benefits-of-CCNA-Certification-for-Aspiring-Network-Engineers.png"  height="55" /><i> CCNA Routing and Switching: Introduction to Networks </i></p>
