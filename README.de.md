@@ -1,4 +1,7 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.md)[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.it.md)[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.es.md)[![de](https://img.shields.io/badge/lang-de-green.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.de.md) 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.md)
+[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.it.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.es.md)
+[![de](https://img.shields.io/badge/lang-de-green.svg)](https://github.com/Patrick2734/Patrick2734/blob/main/README.de.md) 
 
 <a href="https://patrick2734.github.io/">Persönliche  Webseite</a>
 
